@@ -1,1 +1,1 @@
-# PythonDevEssential
+# PythonEssential
